@@ -97,6 +97,7 @@ Teco-Ops/
 │   ├── README_OP.md        # 算子开发指南
 │   ├── README_PYTHON.md    # Python 接口说明
 │   ├── README_PLUGIN.md    # Plugin 自定义算子接口说明
+│   ├── README_DEBUG.md    # Debug手册
 │   └── QA.md               # 常见问题解答
 ├── build.sh                # 算子库构建脚本
 ├── setup.py                # Python 绑定构建脚本
@@ -209,6 +210,7 @@ python plugin_test/test_plugin_flatten_rays.py
 - [Python 接口说明](doc/README_PYTHON.md) — Python API 使用指南
 - [Plugin 自定义算子接口说明](doc/README_PLUGIN.md) — Plugin 算子开发与推理使用指南
 - [常见问题](doc/QA.md) — 算子 proto 参数设置及测试框架说明
+- [Debug 手册](doc/README_DEBUG.md) — SDAAC 程序调试手段及精度问题排查
 
 ## License
 
